@@ -13,3 +13,4 @@ Este repositório é focado em guardar os códigos de arduino e esp 32 feitos no
 * Simuladores (Arduino e Esp32)
 *   * Wokwi 
   
+* https://www.protectedtext.com/thiagolo
